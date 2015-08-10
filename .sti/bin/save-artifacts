@@ -2,5 +2,5 @@
 
 touch /tmp/src/save-articts-invoked
 
-cd /tmp/src
-tar cf - .
+cd /home/jboss
+tar cf -  ./.m2
